@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>brik.jpg</file>
+        <file>obj.jpg</file>
+        <file>obj1.jpg</file>
+    </qresource>
+</RCC>
